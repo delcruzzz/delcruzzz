@@ -1,6 +1,6 @@
 <h1 align="center">Hola 🤙🏻, soy Leonardo</h1>
 
-<p align="center">Soy <strong>Desarrollador Frontend y de Apps móviles</strong></p>
+<p align="center">Soy <strong>Desarrollador Fullstack</strong></p>
 
 <p align="center">
   <a href="https://www.instagram.com/delcruz_/" target="blank" style="margin-right:10px">
