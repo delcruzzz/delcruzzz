@@ -1,5 +1,5 @@
-<h1 align="center">Hola 🤙🏻, soy Leonardo</h1>
+# Hi, I'm delcruz
 
-<p align="center">Soy <strong>Desarrollador Fullstack</strong></p>
+### Frontend developer and a bit of backend :D
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leocruz03&hide=contribs,prs&show_icons=true&theme=tokyonight)
