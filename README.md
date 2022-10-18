@@ -4,7 +4,7 @@
 
 - 👷🏻‍♂️ Freelancer
 
-- 🌼 I'm currently learning **PHP, Symfony and TypsScript**
+- 🌼 I'm currently learning **TypeScript, Dart & Golang**
 
 - 👨🏻‍💻 All my py projects are on [GitHub](GitHub)
 
