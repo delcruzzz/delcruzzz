@@ -4,7 +4,7 @@
 
 - 👷🏻‍♂️ Freelancer
 
-- 🌼 I'm currently learning **TypeScript, Angular & Golang**
+- 🌼 I'm currently learning **TypeScript, Laravel & Golang**
 
 - 👨🏻‍💻 All my py projects are on [GitHub](GitHub)
 
