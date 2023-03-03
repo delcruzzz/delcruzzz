@@ -4,7 +4,7 @@
 
 - 👷🏻‍♂️ Freelancer
 
-- 🌼 I'm currently learning **TypeScript, React JS & Nest JS**
+- 🌼 I'm currently learning **Rust, TypeScript, Nest JS**
 
 - 👨🏻‍💻 All my py projects are on [GitHub](GitHub)
 
