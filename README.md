@@ -1,6 +1,6 @@
 # Hi, I'm Leonardo De la cruz
 
-### Frontend developer and a bit of backend :D
+### JS Developer
 
 - 👷🏻‍♂️ Freelancer
 
