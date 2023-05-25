@@ -9,9 +9,9 @@
 - 👨🏻‍💻 All my py projects are on [GitHub](GitHub)
 
 ## Stats
-![leocruz03 GitHub stats](https://github-readme-stats.vercel.app/api?username=leocruz03&hide=contribs,prs&show_icons=true&theme=tokyonight)
+![leocruz03 GitHub stats](https://github-readme-stats.vercel.app/api?username=delcruzzz&hide=contribs,prs&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leocruz03&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delcruzzz&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies
 <p align="left">
