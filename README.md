@@ -25,6 +25,7 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-0A1A2F?style=flat&logo=markdown)
 - 🔧 &nbsp;IDE's:&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0A1A2F?style=flat&logo=visual-studio)
 
 ## Stats
 ![leocruz03 GitHub stats](https://github-readme-stats.vercel.app/api?username=delcruzzz&hide=contribs,prs&show_icons=true&theme=tokyonight)
