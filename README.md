@@ -16,6 +16,7 @@
 - 🌐 &nbsp;Frontend:&nbsp;
   ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
   ![Redux Toolkit](https://img.shields.io/badge/-Redux-0A1A2F?style=flat&logo=redux)
+  ![Svelte](https://img.shields.io/badge/-Svelte-0A1A2F?style=flat&logo=svelte)
 - 🛢 &nbsp;Database:&nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
   ![Postgresql](https://img.shields.io/badge/-Postgresql-0A1A2F?style=flat&logo=postgresql)
