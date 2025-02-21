@@ -4,7 +4,7 @@
 
 - 👷🏻‍♂️ Freelancer
 
-- 🌼 I'm currently learning **C#, .NET y PostgreSQL**
+- 🌼 I'm currently learning **Python, FastAPI y Redis**
 
 - 👨🏻‍💻 All my py projects are on [GitHub](GitHub)
 
@@ -13,6 +13,8 @@
 - 🗄 &nbsp;Backend:&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
   ![Nest.js](https://img.shields.io/badge/-NestJS-0A1A2F?style=flat&logo=nestjs)
+  ![C#](https://img.shields.io/badge/-C%23-0A1A2F?style=flat&logo=csharp)
+  ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet)
 - 🌐 &nbsp;Frontend:&nbsp;
   ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
   ![Redux Toolkit](https://img.shields.io/badge/-Redux-0A1A2F?style=flat&logo=redux)
